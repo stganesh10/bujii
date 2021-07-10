@@ -19,6 +19,8 @@ h1,h2{
 
 #photo
 {
+    width: 100px;
+    height: 100px;
 text-align: center;
 display: block;
 }
